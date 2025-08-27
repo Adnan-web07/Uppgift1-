@@ -1,2 +1,33 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<!DOCTYPE html>
+<html>
+    <head>  
+           <title>
+            uppgift1
+           </title>
+    </head>
+
+    <body> 
+        <h1>jag: Adnan</h1>
+            <p>jag kommer från Syrian och levt här i Sverige  för 11 år </p>
+            <p>jag älskar concepten om programmaring och webutveckling till o med att laga datorer </p>
+       
+        <h2>Adnan, teknik program</h2>
+       
+        <p>jag gått till teknik för 1 år men i 9an var det kaos och visas en dåligt exempel för att det var
+        inte så roligt men det teknikum var det mer roligare istället min gammal skolan</p>
+        <p>jag hoppas att allting går smidigt och jag tycker redan att det är väldigt roligt jag vill lära
+        hur jag gör min text röd eller en annant färg</p>
+
+
+        <p>här är <a href="https://www.teknikum.se/">min skolan</a> </p>
+      
+     
+
+      
+      <img src="https://www.teknikum.se/images/18.589cea5e16193ddff28243ba/1518777927438/Om%20Teknikum%20-%20Bildspel%20Teknikum.jpg">
+    </body>
+
+
+</html>
