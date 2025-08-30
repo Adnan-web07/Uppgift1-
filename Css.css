@@ -27,7 +27,7 @@ p {
 
 .p2 {
   background-color: rgb(189, 171, 130);
-  border: 5px solid rgb(102, 88, 68); /* fixed border syntax */
+  border: 5px solid rgb(102, 88, 68); 
   border-radius: 40px;
   text-align: right; /* högerjustera texten om kursen */
   padding: 12px;
@@ -36,7 +36,7 @@ p {
 
 .p3 {
   background-color: rgb(143, 129, 95);
-  border: 5px solid rgb(78, 67, 52); /* fixed border syntax */
+  border: 5px solid rgb(78, 67, 52); 
   border-radius: 40px;
   text-align: center; /* högerjustera texten om kursen */
   padding: 12px;
