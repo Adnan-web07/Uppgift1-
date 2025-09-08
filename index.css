@@ -3,7 +3,7 @@ p {
   color: rgb(126, 109, 84); 
   font-size: 20px;
   font-family: 'Arial';
-  line-height: 1.6;     /* större radavstånd för meningar i samma stycke */
+  line-height: 1.6; 
   
 }
 
@@ -102,7 +102,7 @@ a {
   background-color: #fff8f0;
   display: inline; /* gör ramens bredd efter innehållet */
   text-align:justify;
-  line-height: 1.4; /* öka från 0.8 för bättre läsbarhet */
+  line-height: 1.4;
 }
 
 img {
